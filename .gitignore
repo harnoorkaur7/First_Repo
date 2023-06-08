@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+*.Rproj
+#or just add First_Repo.Rproj
